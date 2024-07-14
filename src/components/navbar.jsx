@@ -13,6 +13,7 @@ const Navbar = () => {
         <img onClick={()=>setImgView(true)} src={Logo} alt="" />
         <div onClick={()=>setImgView(false)} className="close"></div>
       </div>
+      <h2>Maria-San</h2>
       <div className="links">
       <NavLink to={"/"}>
         <IoHome size={50} color="" />
