@@ -5,8 +5,9 @@
   align-items: center;
   box-shadow: 0 0 10px purple;
   justify-content: space-between;
-  background-color: purple;
+  background-color: #ECA4A4;
   padding: 0 20px;
+  transition: all .3s;
   .Logo {
     width: 50px;
     height: 50px;
@@ -44,13 +45,18 @@
       }
     }
     img {
+      position: relative;
+      top: auto;
+      left: auto;
       width: 100%;
       height: auto;
       object-fit: cover;
+      transition: all .3s;
+      border-radius: 20px;
     }
   }
   h2{
-    color: rgb(21, 0, 20);
+    color: #AC6869;
     font-size: 30px;
   }
   .links {
@@ -58,12 +64,14 @@
     display: flex;
     gap: 20px;
     a {
-      color: rgb(61, 6, 61);
+      display: flex;
+      align-items: center;
+      color: #AC6869;
       width: 50px;
       height: 50px;
       border-radius: 50px;
       &.active {
-        color: rgb(231, 0, 231);
+        color: #F7E2E1;
       }
     }
   }

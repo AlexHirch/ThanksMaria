@@ -1,5 +1,5 @@
 import React from "react";
-import { SiBoosty } from "react-icons/si";
+import { RiTelegramLine } from "react-icons/ri";
 
 const Profile = () => {
   return (
@@ -13,8 +13,8 @@ const Profile = () => {
         <a href="https://t.me/mariasanVTuber">Мой Telegram Канал</a>
       </div>
       <a href="https://t.me/boost/mariasanVTuber" className="boosty">
-        <SiBoosty size={60} color="orange" />
-        <p style={{fontSize:50}}>Поддержать</p>
+        <RiTelegramLine size={70} color="#24A1DE" />
+        <p style={{ fontSize: 50 }}>Поддержать</p>
       </a>
     </div>
   );
