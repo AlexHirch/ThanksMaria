@@ -12,13 +12,11 @@ const Main = () => {
           </div>
           <div class="inside">
             <img
-              src="https://i.pinimg.com/originals/cd/07/ab/cd07ab1091a0d1c7e61d2760b4352405.jpg"
+              src="https://i.pinimg.com/736x/c7/0b/98/c70b988adba5b2d47d0fe9e43ffd5f03.jpg"
               alt="Красивое изображение"
             />
             <p class="message">
-              <span>Ты лучшая стримерша в Reality, Maria-san! Твои трансляции всегда
-              полны позитива и энергии, а твоя искренняя улыбка заряжает всех
-              зрителей хорошим настроением!</span>
+              <span>Хуй вам А не сайт</span>
             </p>
           </div>
         </div>
