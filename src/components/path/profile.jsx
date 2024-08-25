@@ -13,7 +13,7 @@ const Profile = () => {
         <a href="https://t.me/mariasanVTuber">Мой Telegram где все хуесосы</a>
       </div>
       <a href="https://t.me/boost/mariasanVTuber" className="boosty">
-        <RiTelegramLine size={70} color="#24A1DE" />
+        <RiTelegramLine size={70} color="#000000" />
         <p style={{ fontSize: 50 }}>Кончить в пизду</p>
       </a>
     </div>
