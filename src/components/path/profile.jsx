@@ -5,7 +5,7 @@ const Profile = () => {
   return (
     <div className="Profile">
       <h1>˚୨୧⋆｡maria-san</h1>
-      <h2>{"ฅ^ >ヮ<^₎ всем счастья!!"}</h2>
+      <h2>{"ฅ^ >ヮ<^₎ всем бан!!"}</h2>
       <div className="links">
         <a href="https://reality.app/profile/a0744ec7?adj_t=8ogcewh_z9yhix5">
           Reality для ебли
